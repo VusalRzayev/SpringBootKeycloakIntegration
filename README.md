@@ -6,8 +6,9 @@ Password : admin
 
 Realm : testrealm
 Client : test-app
-Users : 
-    testuser:
+Users
+
+     testuser:
         username : testuser
         password : testuser
         roles     : USER
